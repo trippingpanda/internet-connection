@@ -1,0 +1,674 @@
+{
+    "themeOnePromoSection": {
+        "promoData": [
+            {
+                "id": 1,
+                "promoImage": "/img/promo_img_1.png",
+                "promoTitle": "Free Trail",
+                "promoText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, ipsum."
+            },
+            {
+                "id": 2,
+                "promoImage": "/img/promo_img_2.png",
+                "promoTitle": "Easy to use",
+                "promoText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, ipsum."
+            },
+            {
+                "id": 3,
+                "promoImage": "/img/promo_img_3.png",
+                "promoTitle": "24/7 Support",
+                "promoText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, ipsum."
+            },
+            {
+                "id": 4,
+                "promoImage": "/img/promo_img_4.png",
+                "promoTitle": "Well Documented",
+                "promoText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci, ipsum."
+            }
+        ],
+        "promoDataTwo": [
+            {
+                "id": 1,
+                "promoImage": "/img/feature_icons_1.png",
+                "promoTitle": "Free Trail",
+                "promoText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum impedit possimus eligendi, quam soluta qui."
+            },
+            {
+                "id": 2,
+                "promoImage": "/img/feature_icons_2.png",
+                "promoTitle": "Easy to use",
+                "promoText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum impedit possimus eligendi, quam soluta qui."
+            },
+            {
+                "id": 3,
+                "promoImage": "/img/feature_icons_3.png",
+                "promoTitle": "24/7 Support",
+                "promoText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum impedit possimus eligendi, quam soluta qui."
+            }
+        ],
+        "promoDataThree": [
+            {
+                "id": 1,
+                "promoImage": "/img/feature_icons_1.png",
+                "promoTitle": "Free Trail",
+                "promoText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum impedit possimus eligendi, quam soluta qui."
+            },
+            {
+                "id": 2,
+                "promoImage": "/img/feature_icons_2.png",
+                "promoTitle": "Easy to use",
+                "promoText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum impedit possimus eligendi, quam soluta qui."
+            },
+            {
+                "id": 3,
+                "promoImage": "/img/feature_icons_3.png",
+                "promoTitle": "24/7 Support",
+                "promoText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum impedit possimus eligendi, quam soluta qui."
+            },
+            {
+                "id": 4,
+                "promoImage": "/img/feature_icons_4.png",
+                "promoTitle": "Fast Loading",
+                "promoText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum impedit possimus eligendi, quam soluta qui."
+            },
+            {
+                "id": 5,
+                "promoImage": "/img/feature_icons_5.png",
+                "promoTitle": "Responsive Design",
+                "promoText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum impedit possimus eligendi, quam soluta qui."
+            },
+            {
+                "id": 6,
+                "promoImage": "/img/feature_icons_6.png",
+                "promoTitle": "Well Documented",
+                "promoText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum impedit possimus eligendi, quam soluta qui."
+            }
+        ]
+    },
+    "themeOneAboutSection": {
+        "headingSpan": "About",
+        "heading": "Easy To Manage All Your Data By Appo",
+        "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque at harum quam explicabo. Aliquam optio, delectus, dolorem quod neque eos totam. Delectus quae animi tenetur voluptates doloribus commodi dicta modi aliquid deserunt, quis maiores nesciunt autem, aperiam natus. Dolores, dolorum?",
+        "headingTextTwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique dolor ut iusto vitae autem neque eum ipsam, impedit asperiores vel cumque laborum dicta repellendus inventore voluptatibus et explicabo nobis unde.",
+        "aboutThumb": "/img/about.png",
+        "aboutData": [
+            {
+                "id": 1,
+                "linkClass": "btn btn-bordered",
+                "iconClass": "icofont icofont-brand-android-robot dsp-tc",
+                "iconText": "GET IT ON",
+                "iconSpan": "Google Play"
+            },
+            {
+                "id": 2,
+                "linkClass": "btn btn-bordered",
+                "iconClass": "icofont icofont-brand-apple dsp-tc",
+                "iconText": "AVAILABLE ON",
+                "iconSpan": "Apple Store"
+            }
+        ]
+    },
+    "themeOneFeaturesSection": {
+        "headingSpan": "Features",
+        "heading": "Built In Powerful Features you Can't Miss",
+        "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque at harum quam explicabo. Aliquam optio, delectus, dolorem quod neque eos totam. Delectus quae animi tenetur voluptates doloribus commodi dicta modi aliquid deserunt, quis maiores nesciunt autem, aperiam natus. Dolores, dolorum?",
+        "featuresData": [
+            {
+                "id": 1,
+                "featureImage": "/img/feature_icon_1.svg",
+                "featuretitle": "Simple & Light",
+                "featureText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, adipisci."
+            },
+            {
+                "id": 2,
+                "featureImage": "/img/feature_icon_2.svg",
+                "featuretitle": "Creative Design",
+                "featureText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, adipisci."
+            },
+            {
+                "id": 3,
+                "featureImage": "/img/feature_icon_3.svg",
+                "featuretitle": "Retina Ready",
+                "featureText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, adipisci."
+            },
+            {
+                "id": 4,
+                "featureImage": "/img/feature_icon_4.svg",
+                "featuretitle": "Unlimited Features",
+                "featureText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, adipisci."
+            }
+        ]
+    },
+    "themeOnePricingSection": {
+        "heading": "Affordable Pricing Plans",
+        "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+        "headingTexttwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+        "priceData": [
+            {
+                "id": 1,
+                "planClass": "single-price-plan",
+                "planTitle": "Starter",
+                "planPrice": "$19",
+                "planPackage": "/month",
+                "plan_li_1": "5GB Linux Web Space",
+                "plan_li_2": "5 MySQL Databases",
+                "plan_li_3": "Unlimited Email",
+                "plan_li_4": "250Gb mo Transfer",
+                "plan_li_5": "24/7 Tech Support",
+                "plan_li_6": "Daily Backups",
+                "btnText": "Select Plan"
+            },
+            {
+                "id": 2,
+                "planClass": "single-price-plan",
+                "planTitle": "Basic",
+                "planPrice": "$29",
+                "planPackage": "/month",
+                "plan_li_1": "10GB Linux Web Space",
+                "plan_li_2": "10 MySQL Databases",
+                "plan_li_3": "Unlimited Email",
+                "plan_li_4": "500Gb mo Transfer",
+                "plan_li_5": "24/7 Tech Support",
+                "plan_li_6": "Daily Backups",
+                "btnText": "Select Plan"
+            },
+            {
+                "id": 3,
+                "planClass": "single-price-plan featured",
+                "planTitle": "Pro",
+                "planPrice": "$49",
+                "planPackage": "/month",
+                "plan_li_1": "25GB Linux Web Space",
+                "plan_li_2": "25 MySQL Databases",
+                "plan_li_3": "Unlimited Email",
+                "plan_li_4": "2000Gb mo Transfer",
+                "plan_li_5": "24/7 Tech Support",
+                "plan_li_6": "Daily Backups",
+                "btnText": "Select Plan"
+            },
+            {
+                "id": 4,
+                "planClass": "single-price-plan",
+                "planTitle": "Ultra",
+                "planPrice": "$99",
+                "planPackage": "/month",
+                "plan_li_1": "100GB Linux Web Space",
+                "plan_li_2": "Unlimited Databases",
+                "plan_li_3": "Unlimited Email",
+                "plan_li_4": "10000Gb mo Transfer",
+                "plan_li_5": "24/7 Tech Support",
+                "plan_li_6": "Daily Backups",
+                "btnText": "Select Plan"
+            }
+        ]
+    },
+    "themeOneDownloadSection": {
+        "heading": "Download Appo",
+        "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque at harum quam explicabo. Aliquam optio, delectus, dolorem quod neque eos totam. Delectus quae animi tenetur voluptates doloribus commodi dicta modi aliquid deserunt, quis maiores nesciunt autem, aperiam natus. Dolores, dolorum?",
+        "headingTextTwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique dolor ut iusto vitae autem neque eum ipsam, impedit asperiores vel cumque laborum dicta repellendus inventore voluptatibus et explicabo nobis unde.",
+        "downloadData": [
+            {
+                "id": 1,
+                "linkClass": "btn btn-bordered",
+                "iconClass": "icofont icofont-brand-android-robot dsp-tc",
+                "iconText": "GET IT ON",
+                "iconSpan": "Google Play"
+            },
+            {
+                "id": 2,
+                "linkClass": "btn btn-bordered",
+                "iconClass": "icofont icofont-brand-apple dsp-tc",
+                "iconText": "AVAILABLE ON",
+                "iconSpan": "Apple Store"
+            },
+            {
+                "id": 3,
+                "linkClass": "btn btn-bordered d-none d-lg-inline-block",
+                "iconClass": "icofont-brand-windows dsp-tc",
+                "iconText": "AVAILABLE ON",
+                "iconSpan": "Windows Store"
+            }
+        ]
+    },
+    "themeOneFooterSection": {
+        "image": "/img/logo-white.png",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis non, fugit totam vel laboriosam vitae.",
+        "linkText_1": "Useful Links",
+        "linkText_2": "Product Help",
+        "linkText_3": "Download",
+        "copyrightText": "Copyrights 2019 Appo All rights reserved.",
+        "iconList": [
+            {
+                "id": 1,
+                "link": "facebook",
+                "iconClass": "fab fa-facebook-f"
+            },
+            {
+                "id": 2,
+                "link": "twitter",
+                "iconClass": "fab fa-twitter"
+            },
+            {
+                "id": 3,
+                "link": "google-plus",
+                "iconClass": "fab fa-google-plus-g"
+            },
+            {
+                "id": 4,
+                "link": "vine",
+                "iconClass": "fab fa-vine"
+            }
+        ],
+        "footerList_1": [
+            {
+                "id": 1,
+                "text": "Home"
+            },
+            {
+                "id": 2,
+                "text": "About Us"
+            },
+            {
+                "id": 3,
+                "text": "Services"
+            },
+            {
+                "id": 4,
+                "text": "Blog"
+            },
+            {
+                "id": 5,
+                "text": "Contact"
+            }
+        ],
+        "footerList_2": [
+            {
+                "id": 1,
+                "text": "FAQ"
+            },
+            {
+                "id": 2,
+                "text": "Privacy Policy"
+            },
+            {
+                "id": 3,
+                "text": "Support"
+            },
+            {
+                "id": 4,
+                "text": "Terms & Conditions"
+            },
+            {
+                "id": 5,
+                "text": "Contact"
+            }
+        ],
+        "footerList_3": [
+            {
+                "id": 1,
+                "text": "For Windows"
+            },
+            {
+                "id": 2,
+                "text": "For Linux"
+            },
+            {
+                "id": 3,
+                "text": "For IOS"
+            },
+            {
+                "id": 4,
+                "text": "For Android"
+            },
+            {
+                "id": 5,
+                "text": "For Mac"
+            }
+        ]
+    },
+    "themeOneBlogSection": {
+        "heading": "Latest from Blog",
+        "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+        "headingTexttwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+        "blogData": [
+            {
+                "id": 1,
+                "image": "/img/blog_1.jpg",
+                "author": "Anna Sword",
+                "date": "Feb 05, 2019",
+                "title": "Blog Title Here",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione obcaecati, animi vitae recusandae, praesentium quae.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 2,
+                "image": "/img/blog_2.jpg",
+                "author": "Jassica William",
+                "date": "Feb 05, 2019",
+                "title": "Blog Title Here",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione obcaecati, animi vitae recusandae, praesentium quae.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 3,
+                "image": "/img/blog_3.jpg",
+                "author": "John Doe",
+                "date": "Mar 05, 2019",
+                "title": "Blog Title Here",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione obcaecati, animi vitae recusandae, praesentium quae.",
+                "btnText": "Read More"
+            }
+        ],
+        "blogDataTwo": [
+            {
+                "id": 1,
+                "image": "/img/blog_1.jpg",
+                "author": "Anna Sword",
+                "date": "Feb 05, 2019",
+                "title": "Blog Title Here",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione obcaecati, animi vitae recusandae, praesentium quae.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 2,
+                "image": "/img/blog_2.jpg",
+                "author": "Jassica William",
+                "date": "Feb 05, 2019",
+                "title": "Blog Title Here",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione obcaecati, animi vitae recusandae, praesentium quae.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 3,
+                "image": "/img/blog_3.jpg",
+                "author": "John Doe",
+                "date": "Mar 05, 2019",
+                "title": "Blog Title Here",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione obcaecati, animi vitae recusandae, praesentium quae.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 4,
+                "image": "/img/blog_4.jpg",
+                "author": "Anna Sword",
+                "date": "Aug 05, 2019",
+                "title": "Blog Title Here",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione obcaecati, animi vitae recusandae, praesentium quae.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 5,
+                "image": "/img/blog_5.jpg",
+                "author": "Yasmin Akter",
+                "date": "Feb 05, 2019",
+                "title": "Blog Title Here",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione obcaecati, animi vitae recusandae, praesentium quae.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 6,
+                "image": "/img/blog_6.jpg",
+                "author": "Junaid Hasan",
+                "date": "Jan 12, 2020",
+                "title": "Blog Title Here",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione obcaecati, animi vitae recusandae, praesentium quae.",
+                "btnText": "Read More"
+            }
+        ],
+        "blogDataThree": [
+            {
+                "id": 1,
+                "image": "/img/blog_1.jpg",
+                "author": "Anna Sword",
+                "date": "Feb 05, 2019",
+                "title": "Blog Title Here",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione obcaecati, animi vitae recusandae, praesentium quae.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 2,
+                "image": "/img/blog_2.jpg",
+                "author": "Jassica William",
+                "date": "Feb 05, 2019",
+                "title": "Blog Title Here",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione obcaecati, animi vitae recusandae, praesentium quae.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 3,
+                "image": "/img/blog_3.jpg",
+                "author": "John Doe",
+                "date": "Mar 05, 2019",
+                "title": "Blog Title Here",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione obcaecati, animi vitae recusandae, praesentium quae.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 4,
+                "image": "/img/blog_4.jpg",
+                "author": "Anna Sword",
+                "date": "Aug 05, 2019",
+                "title": "Blog Title Here",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione obcaecati, animi vitae recusandae, praesentium quae.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 5,
+                "image": "/img/blog_5.jpg",
+                "author": "Yasmin Akter",
+                "date": "Feb 05, 2019",
+                "title": "Blog Title Here",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione obcaecati, animi vitae recusandae, praesentium quae.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 6,
+                "image": "/img/blog_6.jpg",
+                "author": "Junaid Hasan",
+                "date": "Jan 12, 2020",
+                "title": "Blog Title Here",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione obcaecati, animi vitae recusandae, praesentium quae.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 7,
+                "image": "/img/blog_1.jpg",
+                "author": "Md. Arham",
+                "date": "Feb 05, 2019",
+                "title": "Blog Title Here",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione obcaecati, animi vitae recusandae, praesentium quae.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 8,
+                "image": "/img/blog_2.jpg",
+                "author": "Junaid Hasan",
+                "date": "Sep 24, 2019",
+                "title": "Blog Title Here",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione obcaecati, animi vitae recusandae, praesentium quae.",
+                "btnText": "Read More"
+            },
+            {
+                "id": 9,
+                "image": "/img/blog_3.jpg",
+                "author": "Johson Smith",
+                "date": "Feb 05, 2020",
+                "title": "Blog Title Here",
+                "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione obcaecati, animi vitae recusandae, praesentium quae.",
+                "btnText": "Read More"
+            }
+        ]
+    },
+    "themeOneContactSection": {
+        "heading": "Stay Tuned",
+        "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+        "headingTextTwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati."
+    },
+    "themeOneSidebarSection": {
+        "widgetTitle_1": "Categories",
+        "widgetTitle_2": "Popular Post",
+        "widgetTitle_3": "Popular Tags",
+        "widgetData_1": [
+            {
+                "id": 1,
+                "text": "Web Design",
+                "content": "(14)"
+            },
+            {
+                "id": 2,
+                "text": "App Landing",
+                "content": "(32)"
+            },
+            {
+                "id": 3,
+                "text": "Wordpress",
+                "content": "(27)"
+            },
+            {
+                "id": 4,
+                "text": "UI Design",
+                "content": "(18)"
+            },
+            {
+                "id": 5,
+                "text": "Bootstrap",
+                "content": "(15)"
+            },
+            {
+                "id": 6,
+                "text": "Web Template",
+                "content": "(29)"
+            }
+        ],
+        "widgetData_2": [
+            {
+                "id": 1,
+                "image": "/img/avatar_1.png",
+                "date": "05 Feb, 2020",
+                "title": "Promote Your Apps With Appo"
+            },
+            {
+                "id": 2,
+                "image": "/img/avatar_2.png",
+                "date": "12 Feb, 2020",
+                "title": "Sell Your Product Like Never Before"
+            },
+            {
+                "id": 3,
+                "image": "/img/avatar_3.png",
+                "date": "13 Jul, 2020",
+                "title": "Built For Passionate People"
+            },
+            {
+                "id": 4,
+                "image": "/img/avatar_4.png",
+                "date": "03 Oct, 2020",
+                "title": "Get Unlimited Offers & Plans"
+            }
+        ],
+        "widgetData_3": [
+            {
+                "id": 1,
+                "text": "Appo"
+            },
+            {
+                "id": 2,
+                "text": "Bootstrap"
+            },
+            {
+                "id": 3,
+                "text": "IOS"
+            },
+            {
+                "id": 4,
+                "text": "Android"
+            },
+            {
+                "id": 5,
+                "text": "Landing Page"
+            },
+            {
+                "id": 6,
+                "text": "Business"
+            },
+            {
+                "id": 7,
+                "text": "Fashion"
+            },
+            {
+                "id": 8,
+                "text": "Media"
+            },
+            {
+                "id": 9,
+                "text": "Lifestyle"
+            },
+            {
+                "id": 10,
+                "text": "Wordpress"
+            },
+            {
+                "id": 11,
+                "text": "Web Design"
+            },
+            {
+                "id": 12,
+                "text": "Mobile App"
+            }
+        ]
+    },
+    "themeOneBlogDetails": {
+        "title": "Promote your product to a new level with Appo",
+        "image": "/img/blog_1.jpg",
+        "author": "Anna Swford",
+        "date": "05 Feb, 2020",
+        "comments": "2 Comments",
+        "text_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique placeat deleniti repellat alias maiores corrupti, commodi rem eum molestiae distinctio vitae perferendis at esse ex quas hic quis debitis quasi aspernatur incidunt, excepturi sapiente ducimus nisi. Ad molestiae, blanditiis ducimus.",
+        "text_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est mollitia, tenetur libero voluptate quisquam consectetur facilis natus molestiae officiis aperiam.",
+        "text_3": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique placeat deleniti repellat alias maiores corrupti, commodi rem eum molestiae distinctio vitae perferendis at esse ex quas hic quis debitis quasi aspernatur incidunt, excepturi sapiente ducimus nisi. Ad molestiae, blanditiis ducimus.",
+        "text_4": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est mollitia, tenetur libero voluptate quisquam consectetur facilis natus molestiae officiis aperiam.",
+        "quoteText_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime magnam, molestias omnis quam veritatis consectetur nihil aliquid quo culpa? Ullam molestiae id temporibus nemo inventore, at reiciendis distinctio porro atque!",
+        "quoteText_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur ullam dolor, omnis maiores molestiae ducimus.",
+        "adminImage": "/img/avatar_1.png",
+        "admin": "Anna Swford",
+        "adminText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo eius nam facere enim, voluptas incidunt officiis molestiae, nostrum dolor? Fugit.",
+        "commentsTitle": "Recent Comments",
+        "commentsPost": "Post your Comments",
+        "btnText": "Send Message",
+        "iconList": [
+            {
+                "id": 1,
+                "link": "bg-white facebook",
+                "iconClass": "fab fa-facebook-f"
+            },
+            {
+                "id": 2,
+                "link": "bg-white twitter",
+                "iconClass": "fab fa-twitter"
+            },
+            {
+                "id": 3,
+                "link": "bg-white google-plus",
+                "iconClass": "fab fa-google-plus-g"
+            }
+        ],
+        "commentsData": [
+            {
+                "id": 1,
+                "commentsImage": "/img/avatar_2.png",
+                "commentsAuthor": "Junaid Hasan",
+                "replyText": "Reply",
+                "commentsText_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere optio ipsum maiores mollitia quisquam.",
+                "commentsText_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            },
+            {
+                "id": 2,
+                "commentsImage": "/img/avatar_3.png",
+                "commentsAuthor": "Jassica William",
+                "replyText": "Reply",
+                "commentsText_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere optio ipsum maiores mollitia quisquam.",
+                "commentsText_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            }
+        ]
+    }
+}
